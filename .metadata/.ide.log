@@ -677,3 +677,7 @@
 2024-11-28 06:29:18,701 [INFO] McuFinderGlobals:52 - Set McuFinderConnectedMode to true
 2024-11-28 06:29:18,701 [INFO] ApiDb:276 - Save user favorites file C:\Users\FPTMSI/.stm32cubeide/favorites.mcus.txt: 0 item(s)
 2024-11-28 06:29:18,701 [INFO] ApiDb:280 - User favorites MCUs=[]
+2024-11-28 06:46:25,008 [INFO] Activator:177 - 
+
+
+2024-11-28 06:46:25,008 [INFO] Activator:178 - !SESSION log4j initialized
